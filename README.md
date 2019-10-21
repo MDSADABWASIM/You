@@ -2,6 +2,8 @@
 You - what internet knows about you.
 built in flutter.
 
+<a href='https://play.google.com/store/apps/details?id=indiancoder.you'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+
 The app has the functionality to check your data online.
 
 Check what internet giants knows about you.
