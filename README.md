@@ -17,4 +17,10 @@
 
 **If this app helps you in any matter please consider donating**  [![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen)](https://paypal.me/mdsadabwasim?locale.x=en_GB)
 
+## Star History <a name="star-history"></a>
+
+<a href="https://github.com/xtekky/gpt4free/stargazers">
+        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=MDSADABWASIM/You&type=Date">
+      </a> 
+
 **Made with** :heart: **and Flutter**
