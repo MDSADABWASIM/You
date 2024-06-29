@@ -92,15 +92,12 @@ class _AnimationDemoHomeState extends State<AnimationDemoHome> {
               ],
             ),
           ),
-          Padding(
-            padding: EdgeInsets.only(top: 20.0),
-          ),
           _divider,
           ListTile(
-            leading: Icon(Icons.settings_input_antenna, color: Colors.white),
+            leading: Icon(Icons.settings_input_antenna, color: Colors.black),
             title: Text(
               "Your   Location",
-              style: TextStyle(color: Colors.white, fontSize: 15.0),
+              style: TextStyle(color: Colors.black, fontSize: 15.0),
             ),
             onTap: () {
               setState(() {
@@ -116,11 +113,11 @@ class _AnimationDemoHomeState extends State<AnimationDemoHome> {
           ListTile(
             leading: Icon(
               Icons.assignment,
-              color: Colors.white,
+              color: Colors.black,
             ),
             title: Text(
               "Live   Tracking",
-              style: TextStyle(color: Colors.white, fontSize: 15.0),
+              style: TextStyle(color: Colors.black, fontSize: 15.0),
             ),
             onTap: () {
               setState(() {
@@ -137,11 +134,11 @@ class _AnimationDemoHomeState extends State<AnimationDemoHome> {
             child: ListTile(
               leading: Icon(
                 Icons.share,
-                color: Colors.white,
+                color: Colors.black,
               ),
               title: Text(
                 "Share  App",
-                style: TextStyle(color: Colors.white, fontSize: 15.0),
+                style: TextStyle(color: Colors.black, fontSize: 15.0),
               ),
               onTap: () => _sharer(),
             ),
